@@ -17,4 +17,4 @@ The challenge focuses on responsive layout, clean UI, and proper spacing.
 - CSS3 (Flexbox + Grid)
 
 ## 🌐 Live Demo
-[View Live Project] ()
+[View Live Project] (https://mohamed-abdalla-dev.github.io/Clipboard-landing-page-html-css/)
